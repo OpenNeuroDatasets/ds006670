@@ -28,7 +28,7 @@
         "diffusion"
     ],
     "Acknowledgements": "Special thanks to Eugene Kim for developing pipelines and formatting this dataset in BIDS.",
-    "HowToAcknowledge": "Please cite this preprint (or find a link for peer-reviewed manuscript DOI): https://doi.org/10.1101/2025.04.24.650541",
+    "HowToAcknowledge": "Please cite this preprint (or find a link to peer-reviewed manuscript DOI): https://doi.org/10.1101/2025.04.24.650541",
     "Funding": [
         "This work was funded by the MRC grant “Complement C3aR in adolescent synaptic pruning and risk for anxiety” (MR/W004607/1)",
         "Hanna Lemmik was funded by the Wellcome Trust as part of the “Neuro-Immune Interactions in Health & Disease” Wellcome Trust PhD Programme (218452/Z/19/Z)"
