@@ -1,7 +1,5 @@
-This dataset contains the raw images and templates from Cohort 2 (scanned once at three months) of the manuscript:
-Complement receptor C3ar1 deficiency does not alter brain structure or functional connectivity across early life development
-Hanna Lemmik,  Eugene Kim,  Eilidh MacNicol,  Davide Maselli, Michel Bernanos, Zhuoni Li,  Dauda Abdullahi,  Esther Walters,  Maria Elisa Serrano Navacerrada,  Wuding Zhou,  Aleksandar Ivetic,  Diana Cash, Laura Westacott
-doi: https://doi.org/10.1101/2025.04.24.650541
+This dataset contains the raw images and templates from Cohort 2 (scanned once at three months, range PND74–110) of the manuscript:
+Hanna Lemmik, Eugene Kim, Eilidh MacNicol, Davide Maselli, Michel Bernanos, Zhuoni Li, Dauda Abdullahi, Esther Walters, Maria Elisa Serrano Navacerrada, Wuding Zhou, Aleksandar Ivetic, Diana Cash, Laura Westacott, Complement receptor C3ar1 deficiency does not alter brain structure or functional connectivity across early life development, Brain Communications, 2025;, fcaf422, https://doi.org/10.1093/braincomms/fcaf422
 
 ## Details related to access to the data
 
@@ -12,12 +10,12 @@ Hanna Lemmik — hannalemmik@hotmail.com, ORCID 0000-0002-2708-9557
 
 ## Overview
 
--   [ ] Project ran in though spring, summer and autumn 2023
+-   [ ] The project ran in though spring, summer and autumn 2023
 
 
 -   [ ] Brief overview of the tasks in the experiment
 
-Anatomy and diffusion scans in vivo to locate synaptic pathology in C3ar1tm1Cge/C3ar1tm1Cge mouse model.
+Anatomy and diffusion scans in vivo to locate synaptic pathology in C3ar1tm1Cge/C3ar1tm1Cge mouse model first reported in Humbles et al. (2000) Nature (https://doi.org/10.1038/35023175).
 
 -   [ ] Description of the contents of the dataset
 
@@ -25,7 +23,7 @@ C3ar1+/+ (wild type) N = 19, 11 males and 8 females; C3ar1tm1Cge/C3ar1tm1Cge N =
 
 ## Methods
 
-See preprint doi: https://doi.org/10.1101/2025.04.24.650541
+See our paper doi: https://doi.org/10.1093/braincomms/fcaf422
 
 ### Subjects
 
@@ -42,11 +40,18 @@ Mice were imaged using a Bruker BioSpec 9.4 T scanner with an 86-mm volume reson
 
 ### Additional data acquired
 
-Open field, novel object recognition, elevated plus maze and prepulse inhibition tests were performed shortly before the adulthood scan.
+Open field, novel object recognition, elevated plus maze and prepulse inhibition tests were performed shortly before the adulthood scan. 
 
+The links for behaviour videos:
+
+https://doi.org/10.5281/zenodo.17113949 (Cohort 2 novel object recognition training
+and test videos).
+
+https://doi.org/10.5281/zenodo.17113481 (Cohort 2 open field and elevated plus maze) 
 
 ### Experimental location
 
 King's College London, BRAIN Centre
 
+Key BRAIN Centre contacts: Diana Cash (Director): diana.cash@kcl.ac.uk Eugene Kim (Chief physicist): eugene.kim@kcl.ac.uk
 
